@@ -1,0 +1,25 @@
+{
+	"name": "pfaciana/bspline",
+	"version": "1.0.0",
+	"description": "A simple and fast uniform-knot BSpline curve implementation in PHP.",
+	"type": "library",
+	"license": "MIT",
+	"keywords": [],
+	"homepage": "https://renderdev.com/",
+	"authors": [
+		{
+			"name": "Phil Faciana",
+			"email": "phil@renderdev.com",
+			"homepage": "https://renderdev.com/",
+			"role": "Developer"
+		}
+	],
+	"autoload": {
+		"classmap": [
+			"BSpline.php"
+		]
+	},
+	"repositories": [],
+	"require-dev": {},
+	"require": {}
+}
